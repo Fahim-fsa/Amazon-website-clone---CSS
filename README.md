@@ -1,0 +1,2 @@
+# Amazon-website-clone---CSS
+My Amazon website clone is a front end web development project built using HTML and CSS. The goal of this project is to recreate the layout and visual structure of the Amazon homepage while improving my understanding of responsive design, flexbox, and modern UI styling techniques. This clone focuses mainly on the header and footer sections.
